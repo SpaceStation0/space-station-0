@@ -1,9 +1,8 @@
 # Space Station 0
-This is the main server application for Space Station 0. Space Station 0 is a multiplayer round-based roleplaying game where you
-must do your job and survive on a treacherous space station embedded in the depths of a massive asteroid.
+This is the main application for Space Station 0. Space Station 0 is a singleplayer survival game on a procedurally-generated space station
+with permadeath mechanics. It also can be run as a multiplayer game.
 
-It is based on the game Space Station 13, and can be considered a 'remake' of that game in a general sense,
-although many in-game mechanics have changed greatly.
+It is heavily inspired by the multiplayer game Space Station 13, and shares many of its mechanics.
 
 ## Gameplay features of Space Station 0
 - Play 10 different jobs: Captain, Chef, Engineer, Security Officer, Miner, Scientist, Quartermaster, Janitor,
@@ -21,7 +20,7 @@ Doctor, and of course, Clown.
 - Smooth lighting
 - Randomly generated structures and dozens of enemies to fight within the asteroid
 - 4 unique gamemodes
-- Smart administration and moderation tools
+- Play with friends via multiplayer mode, or host a dedicated server that many people can play on.
 
 Space Station 0 is also designed to be easy to run, and easy to contribute to. There is extensive documentation
 for every part of the codebase, allowing any coder to get up-to-speed and start helping out in 30 minutes
